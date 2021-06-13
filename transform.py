@@ -678,8 +678,8 @@ if __name__ == "__main__":
                   print()
                   
                   for i in k2:
-                    for j in i:
-                      print(j,end=' ')
+                    for b in i:
+                      print(b,end=' ')
                   print()
                   poly.plot()
 
